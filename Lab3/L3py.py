@@ -78,7 +78,7 @@ def main():
     
     # 
     # 
-    data_dir = "./data"  # 
+    data_dir = "D:\KPI\APD\git\Lab\Lab2\data"  # 
     
     #
     st.sidebar.header("Настройки данных")
